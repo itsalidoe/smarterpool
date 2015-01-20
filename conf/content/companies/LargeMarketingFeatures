@@ -1,0 +1,64 @@
+[
+    {
+      "title" : "Post Challenges",
+      "lead" : "Use SmarterPool to create innovation or business challenges that can keep your company competitive.  Our
+                candidates can create solutions to problems you present at a cheaper price with a larger input.  Expect
+                submissions in 2 weeks or less without paying for training or hiring.",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "",
+      "imageLink" : "images/screenshots/competition.png",
+      "imagePull" : "left",
+      "classes" : "withImage",
+      "id" : "challenge"
+    },
+    {
+      "title" : "Robust Analytics",
+      "lead" : "Manage your challenges in real time with our analytics tool.  This will help you see current results,
+                engagement of students, issues with your challenge, and much more.  Easily export the information to show
+                your colleagues.",
+      "button" : "",
+      "buttonLink" : "#analytics",
+      "tagline" : "",
+      "imageLink" : "images/screenshots/challenge_analytics.png",
+      "imagePull" : "right",
+      "classes" : "withImage",
+      "id" : "analytics"
+    },
+    {
+      "title" : "Gain visibility",
+      "lead" : "List basic information about your company so students can learn more about the work, culture, and skills
+                required to be hired.  Companies can also see which students have viewed the profile and are interested in
+                applying for future reference.",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "",
+      "imageLink" : "images/screenshots/company_information.png",
+      "imagePull" : "left",
+      "classes" : "withImage",
+      "id" : "smarterpool_advertise"
+    },
+    {
+      "title" : "Focus on the talent",
+      "lead" : "Analyze everything about each of the candidates on the website, even if they have not applied to the challenge.
+                Browse their experiences, goals, resume and glimpse into their skills through the portfolio of their submissions.",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "",
+      "imageLink" : "images/screenshots/company_screening.png",
+      "imagePull" : "right",
+      "classes" : "withImage",
+      "id" : "students"
+    },
+    {
+      "title" : "Oh yeah, it's that good.",
+      "lead" : "Sign up to talk to an agent about how SmarterPool can help you hire from a smarter pool of candidates.",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "See for yourself.",
+      "imageLink" : "",
+      "imagePull" : "left",
+      "classes" : "",
+      "id" : ""
+    }
+]

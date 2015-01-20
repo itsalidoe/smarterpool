@@ -1,0 +1,42 @@
+@(shareLink: String)
+
+<link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/social.css")">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=223975174437995";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="social-container">
+    <script type="text/javascript">
+        function onLinkedInAuth() {
+          IN.API.Profile("me")
+            .result( function(me) {
+              var id = me.values[0].id;
+              // AJAX call to pass back id to your server
+            });
+        }
+    </script>
+    <div id="linkedin-signin">
+        <script type="IN/Login" data-onAuth="onLinkedInAuth"></script>
+    </div>
+    <div id="linkedin">
+        <script src="//platform.linkedin.com/in.js" type="text/javascript">
+            lang: en_US
+            api_key: 77w3bxebi3gc02
+            authorize: true
+        </script>
+        <script type="IN/Share" data-counter="top" data-url="@shareLink"></script>
+    </div>
+    <div id="twitter">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="@shareLink" data-lang="en" data-count="vertical">Tweet</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+    <div id="facebook">
+        <div class="fb-like" data-href="@shareLink" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div>
+</div>

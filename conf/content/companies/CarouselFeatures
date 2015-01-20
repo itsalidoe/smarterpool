@@ -1,0 +1,48 @@
+[
+    {
+      "title" : "Innovate by challenging a larger talent pool.",
+      "lead" : "Our platform allows you to pose real world challenges to larger community. Smarter Answers, Smarter Ideas, More Innovation, More Results.",
+      "button" : "Learn More",
+      "buttonLink" : "#challenge",
+      "tagline" : "",
+      "imageLink" : "images/slide-01.jpg",
+      "imagePull" : "",
+      "classes" : "active",
+      "id" : ""
+    },
+    {
+      "title" : "Leverage Skills and Ideas without commitment",
+      "lead" : "Find and create solutions to business situations through our collaborative platform without contracts or costs of training and development.",
+      "button" : "Learn More",
+      "buttonLink" : "#analytics",
+      "tagline" : "",
+      "imageLink" : "images/slide-02.jpg",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    },
+    {
+      "title" : "Hire the best",
+      "lead" : "Find the best candidates based on their portfolio of submissions and our
+                in depth analytic tools. Isolate based on any category, skill, school and much more!",
+      "button" : "Learn More",
+      "buttonLink" : "#students",
+      "tagline" : "",
+      "imageLink" : "images/slide-03.jpg",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    },
+    {
+      "title" : "Expose your Brand and Company",
+      "lead" : "Use our platform as a virtual career fair to exhibit your company and the types of skills and personalities
+                you are looking for in your employees.",
+      "button" : "Learn More",
+      "buttonLink" : "#smartpool_advertise",
+      "tagline" : "",
+      "imageLink" : "images/slide-02.jpg",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    }
+]

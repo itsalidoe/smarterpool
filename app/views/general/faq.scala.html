@@ -1,0 +1,15 @@
+@(questions: List[controllers.general.Question])
+
+<h1 class="no-carousel-header">FAQ</h1>
+
+
+<hr class="featurette-divider">
+
+@questions.map { question =>
+    <h2><span class="muted">Q</span>. @question.question</h2>
+    <p>
+        @question.answer
+    </p>
+
+    <hr class="featurette-divider">
+}

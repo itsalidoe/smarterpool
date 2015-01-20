@@ -1,0 +1,38 @@
+[
+    {
+      "title" : "Solve some Interesting Real World Problems",
+      "lead" : "Our platform makes it easy for you to solve challenges and showcase your skills to companies. Solve problems
+                that interest you and relate to your skills and show us your creativity!",
+      "button" : "Sign up today",
+      "buttonLink" : "#signup",
+      "tagline" : "",
+      "imageLink" : "images/slide-01.jpg",
+      "imagePull" : "",
+      "classes" : "active",
+      "id" : ""
+    },
+    {
+      "title" : "Earn Rewards and Recognition",
+      "lead" : "SmarterPool is about building a portfolio based on skills, so companies know you can execute. If companies
+                like your work, you will be rewarded in cash, prizes or even employment with the company!",
+      "button" : "Sign up today",
+      "buttonLink" : "#signup",
+      "tagline" : "",
+      "imageLink" : "images/slide-02.jpg",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    },
+    {
+      "title" : "Find Career Resources",
+      "lead" : "Our platform connects you with mentors and professionals in companies so you learn more about your career,
+                the needs of the companies you like, and skills required to succeed.",
+      "button" : "Sign up today",
+      "buttonLink" : "#signup",
+      "tagline" : "",
+      "imageLink" : "images/slide-03.jpg",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    }
+]

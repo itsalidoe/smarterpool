@@ -1,0 +1,32 @@
+@(featurettes: List[controllers.bootstrap.Featurette])
+
+<div id="carousel" class="carousel slide">
+    <div class="carousel-inner">
+        @featurettes.map { feature =>
+            <div class="item @feature.classes">
+                @if(feature.imageLink != "") {
+                    <img src="@feature.imageLink" alt="">
+                }
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>@feature.title</h1>
+                        <p class="lead">@feature.lead</p>
+                        @if(feature.button != "") {
+                            <a class="btn btn-large btn-primary" href="@feature.buttonLink">@feature.button</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <a class="left carousel-control" href="#carousel" data-slide="prev">&lsaquo;</a>
+    <a class="right carousel-control" href="#carousel" data-slide="next">&rsaquo;</a>
+</div>
+<script>
+    !function ($) {
+        $(function(){
+            // carousel demo
+            $('#carousel').carousel()
+        })
+    }(window.jQuery)
+</script>

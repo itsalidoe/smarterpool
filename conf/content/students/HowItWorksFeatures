@@ -1,0 +1,35 @@
+[
+    {
+      "title" : "Companies Post Challenges",
+      "lead" : "",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "",
+      "imageLink" : "images/compete.png",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    },
+    {
+      "title" : "Students submit ideas and solutions",
+      "lead" : "",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "",
+      "imageLink" : "images/idea.png",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    },
+    {
+      "title" : "Students earn rewards and recognition for their work",
+      "lead" : "",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "",
+      "imageLink" : "images/awards.png",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    }
+]

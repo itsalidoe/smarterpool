@@ -1,0 +1,41 @@
+[
+    {
+      "title" : "What is SmarterPool?",
+      "lead" : "SmarterPool is a an online platform that connects students with companies through real world challenges. This
+                solution was created as a result of the high student/graduate unemployment and lack of corporate innovation
+                happening in India. By posting challenges, companies identify students based on skills, and use a larger,
+                smarter pool, to collaborate on innovative solutions. Students find challenges that resonate with their
+                interests and studies, and earn temporary income for their work.",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "",
+      "imageLink" : "",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    },
+    {
+      "title" : "Why Mentor?",
+      "lead" : "The next generation of students need your help to develop the skills and the career to succeed. Help as much
+                or as little as you want as we provide you an easy platform to do it. We also encourage mentorship by offering
+                rewards and recognition to those that mentor successfully.",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "",
+      "imageLink" : "",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    },
+    {
+      "title" : "",
+      "lead" : "",
+      "button" : "See Our FAQ",
+      "buttonLink" : "/faq",
+      "tagline" : "",
+      "imageLink" : "",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+      "title" : "Mentor Students",
+      "lead" : "SmarterPool allows you to be a mentor for students in university and looking to start their careers.",
+      "button" : "Sign up today",
+      "buttonLink" : "#signup",
+      "tagline" : "",
+      "imageLink" : "images/slide-01.jpg",
+      "imagePull" : "",
+      "classes" : "active",
+      "id" : ""
+    },
+    {
+      "title" : "Earn Rewards",
+      "lead" : "Mentors will be rewarded for their efforts through our rewards and recognition system.",
+      "button" : "Sign up today",
+      "buttonLink" : "#signup",
+      "tagline" : "",
+      "imageLink" : "images/slide-02.jpg",
+      "imagePull" : "",
+      "classes" : "",
+      "id" : ""
+    }
+]

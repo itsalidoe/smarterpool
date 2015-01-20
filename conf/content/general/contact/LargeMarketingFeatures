@@ -1,0 +1,44 @@
+[
+    {
+      "title" : "Bhaskar Thakur",
+      "lead" : "Bhaskar is a serial entrepreneur with multiple successful exits in the past.  He has over 14 years of
+                experience across marketing, sales, product management, and channel development in the internet and
+                mobile domains.  Bhaskar is passionate about the future of India, and how today’s students will be
+                tomorrows innovators.",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "bhaskar@smarterpool.com",
+      "imageLink" : "images/headshots/Bhaskar.jpg",
+      "imagePull" : "left",
+      "classes" : "withImage",
+      "id" : ""
+    },
+    {
+      "title" : "Ali Jiwani",
+      "lead" : "A recent graduate of the Ivey Business School in Canada, Ali is taking on his third venture with
+                SmarterPool.  He has studied design thinking, and worked for a number of international technology
+                ventures as an early employee.  Ali is ambitious for the future of India as a global innovative
+                superpower, fueled by the young graduates of today.",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "ali@smarterpool.com",
+      "imageLink" : "images/headshots/Ali.jpg",
+      "imagePull" : "right",
+      "classes" : "withImage",
+      "id" : ""
+    },
+    {
+      "title" : "Sean Po",
+      "lead" : "Sean is a current mechatronics student at the University of Waterloo in Canada.  He has multiple work
+                experiences in the technology industry, including placements with Kontagent, Twitter, and Microsoft.
+                Sean believes in using his abilities to produce massive change, and is excited for the potential of
+                SmarterPool and its future impact on the Indian economy.",
+      "button" : "",
+      "buttonLink" : "",
+      "tagline" : "sean@smarterpool.com",
+      "imageLink" : "images/headshots/Sean.jpg",
+      "imagePull" : "left",
+      "classes" : "withImage",
+      "id" : ""
+    }
+]
